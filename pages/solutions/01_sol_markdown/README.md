@@ -1,5 +1,7 @@
 # Podstawowe Wzory Matematyczne i Fizyczne
+
 ## Wzory matermatyczne
+
 Matematyka dostarcza narzędzi do opisu wielu zjawisk fizycznych. Przykładowo można obliczyć pole koła za pomocą wzoru na pole powierzchni.
 
 **pole koła**: $P=\pi r^2$
@@ -9,6 +11,7 @@ Matematyka dostarcza narzędzi do opisu wielu zjawisk fizycznych. Przykładowo m
 **średnia arytmetyczna**: $\bar{x}=\frac{x_1+x_2+\dots+x_n}{n}$
 
 ## Wzory fizyczne
+
 Fizyka wykorzystuje *równania do opisu ruchu*, energii i oddziaływań między ciałami. Niektóre starsze metody obliczeń są ~~rzadko stosowane~~ i zostały zastąpione bardziej uniwersalnymi technikami.
 
 $$
@@ -24,12 +27,14 @@ U=RI
 $$
 
 Funkcje:
+
 - Matematyka opisuje zależności ilościowe.
 - Fizyka wykorzystuje modele matematyczne.
 - Wzory ułatwiają rozwiązywanie problemów.
 - Jednostki pozwalają poprawnie interpretować wyniki.
 
 Tok postępowania:
+
 1. Odczytaj dane.
 2. Wybierz odpowiedni wzór.
 3. Podstaw wartości.
@@ -44,6 +49,7 @@ Co zrobić?
 - [ ] sprawdzić poprawność wyników
 
 **Tabelka**
+
 | Wielkość fizyczna | Symbol | Jednostka | Przykładowy wzór |
 | --- | --- | --- | --- |
 | Siła | F | N (niuton) | F = ma |
@@ -66,4 +72,5 @@ print("Pole koła:", pole_kola)
 ![Wykres](wykres.png)
 
 Link:
+
 [Google Colab](http://colab.research.google.com)
