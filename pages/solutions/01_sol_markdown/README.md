@@ -61,10 +61,10 @@ Co zrobić?
 
 ```python
 import math
- 
+
 r = 5
 pole_kola = math.pi * r**2
- 
+
 print("Promień:", r)
 print("Pole koła:", pole_kola)
 ```
