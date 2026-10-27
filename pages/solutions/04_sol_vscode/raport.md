@@ -124,15 +124,15 @@ Tor jest parabolą. Wznoszenie i opadanie są symetryczne względem chwili osią
 
 ![Porównanie toru idealnego i toru z oporem powietrza dla v0 równego 36 m/s oraz kąta 7 stopni](files/tor_lotu.svg)
 
-*Rysunek 2. Parabola bez oporu oraz krótszy i niższy tor z oporem. Wykres pokazuje oba modele dla tej samej prędkości początkowej.*
+*Rysunek 2.* Parabola bez oporu oraz krótszy i niższy tor z oporem. Wykres pokazuje oba modele dla tej samej prędkości początkowej.
 
 ![Położenie poziome i pionowe w czasie dla modelu bez oporu i modelu z oporem](files/polozenie_czas.svg)
 
-*Rysunek 3. Bez oporu $x(t)$ rośnie liniowo. W modelu z oporem maleje składowa pozioma prędkości, a zatem wykres $x(t)$ stopniowo się spłaszcza.*
+*Rysunek 3.* Bez oporu $x(t)$ rośnie liniowo. W modelu z oporem maleje składowa pozioma prędkości, a zatem wykres $x(t)$ stopniowo się spłaszcza.
 
 ![Składowe prędkości w funkcji czasu w modelu bez oporu i z oporem](files/predkosc_czas.svg)
 
-*Rysunek 4. W modelu idealnym $v_x$ jest stałe, a $v_y$ maleje liniowo. Opór zmienia obie składowe prędkości.*
+*Rysunek 4.* W modelu idealnym $v_x$ jest stałe, a $v_y$ maleje liniowo. Opór zmienia obie składowe prędkości.
 
 W pierwszej części skryptu analityczne równania zapisujemy bezpośrednio:
 
@@ -163,7 +163,7 @@ Przyjmujemy modelową piłkę o masie $m=0{,}145\,\mathrm{kg}$ i promieniu $r=0{
 
 ![Schemat sił podczas ruchu w powietrzu: ciężar skierowany w dół oraz opór skierowany przeciwnie do wektora prędkości](files/opory_schemat.svg)
 
-*Rysunek 5. Opór nie jest skierowany wyłącznie w dół: jego kierunek jest przeciwny do chwilowej prędkości.*
+*Rysunek 5.* Opór nie jest skierowany wyłącznie w dół: jego kierunek jest przeciwny do chwilowej prędkości.
 
 ## 5. Równania ruchu z oporem
 
@@ -220,7 +220,7 @@ Widać sprzężenie osi: opór poziomy zależy również od składowej pionowej,
 
 ![Schemat sił i wektorów w rzucie ukośnym z oporem powietrza](files/opory_schemat.svg)
 
-*Rysunek 6. Przy wznoszeniu opór ma składową poziomą przeciwną do $v_x$ oraz pionową przeciwną do $v_y$; po minięciu wierzchołka zmienia zwrot składowej pionowej.*
+*Rysunek 6.* Przy wznoszeniu opór ma składową poziomą przeciwną do $v_x$ oraz pionową przeciwną do $v_y$; po minięciu wierzchołka zmienia zwrot składowej pionowej.
 
 ## 6. Wykresy z oporem
 
@@ -262,7 +262,7 @@ $$
 
 ![Energia kinetyczna, potencjalna, mechaniczna i energia rozproszona wskutek oporu](files/bilans_energii.svg)
 
-*Rysunek 7. Energia mechaniczna maleje, ale po uwzględnieniu energii rozproszonej całkowity bilans pozostaje prawie stały. Niewielka reszta wynika z kroku całkowania numerycznego.*
+*Rysunek 7.* Energia mechaniczna maleje, ale po uwzględnieniu energii rozproszonej całkowity bilans pozostaje prawie stały. Niewielka reszta wynika z kroku całkowania numerycznego.
 
 ## 7. Porównanie i wnioski
 
@@ -274,7 +274,7 @@ $$
 
 ![Zasięg w funkcji kąta wyrzutu: porównanie modelu idealnego z modelem oporu kwadratowego](files/zasieg_kat.svg)
 
-*Rysunek 8. Bez oporu maksimum zasięgu wypada przy $0{,}785\,\mathrm{rad}$ ($45^\circ$). Przy oporze kąt optymalny jest mniejszy; zaznaczony punkt około $0{,}707\,\mathrm{rad}$ ($40{,}5^\circ$) jest maksimum na siatce obliczeniowej co $0{,}5^\circ$.*
+*Rysunek 8.* Bez oporu maksimum zasięgu wypada przy $0{,}785\,\mathrm{rad}$ ($45^\circ$). Przy oporze kąt optymalny jest mniejszy; zaznaczony punkt około $0{,}707\,\mathrm{rad}$ ($40{,}5^\circ$) jest maksimum na siatce obliczeniowej co $0{,}5^\circ$.
 
 Wyniki prowadzą do czterech wniosków:
 
