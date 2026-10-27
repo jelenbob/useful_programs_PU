@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Bilans energii z oporem</title><desc id="desc">Energia kinetyczna, potencjalna, mechaniczna i energia rozproszona wskutek oporu podczas lotu.</desc>
+  <rect width="900" height="500" fill="#fff"/><g stroke="#d8dee8" stroke-width="1">
+    <path d="M90 410H830M90 330H830M90 250H830M90 170H830M90 90H830"/><path d="M90 90V410M275 90V410M460 90V410M645 90V410M830 90V410"/>
+  </g>
+  <path d="M90 109L173 128L255 145L338 160L420 174L503 186L585 197L668 206L751 214L830 219" fill="none" stroke="#2864a5" stroke-width="4"/>
+  <path d="M90 410L173 408L255 407L338 406L420 406L503 406L585 407L668 408L751 409L830 410" fill="none" stroke="#168578" stroke-width="4"/>
+  <path d="M90 109L173 126L255 142L338 157L420 170L503 182L585 193L668 204L751 213L830 219" fill="none" stroke="#d47722" stroke-width="4"/>
+  <path d="M90 410L173 393L255 377L338 363L420 350L503 338L585 327L668 316L751 306L830 300" fill="none" stroke="#8455a4" stroke-width="4"/>
+  <path d="M90 109H830" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="7 5"/>
+  <path d="M90 90V410M90 410H830" fill="none" stroke="#233044" stroke-width="2"/>
+  <g fill="#233044" font-family="DejaVu Sans, sans-serif" font-size="14">
+    <text x="86" y="432">0</text><text x="260" y="432">0,2</text><text x="445" y="432">0,4</text><text x="630" y="432">0,6</text><text x="812" y="432">0,8</text>
+    <text x="420" y="468" font-size="17">Czas t [s]</text><text transform="translate(30 300) rotate(-90)" font-size="17">Energia [J]</text>
+    <text x="105" y="29" fill="#2864a5">Kinetyczna</text><text x="245" y="29" fill="#168578">Potencjalna</text><text x="395" y="29" fill="#d47722">Mechaniczna</text><text x="550" y="29" fill="#8455a4">Rozproszona</text><text x="700" y="29" fill="#64748b">Suma = const</text>
+  </g>
+  <path d="M95 24h32M235 24h32M385 24h32M540 24h32" stroke-width="4" stroke="#2864a5"/><path d="M235 24h32" stroke="#168578"/><path d="M385 24h32" stroke="#d47722"/><path d="M540 24h32" stroke="#8455a4"/><path d="M685 24h32" stroke="#64748b" stroke-dasharray="6 4"/>
+</svg>

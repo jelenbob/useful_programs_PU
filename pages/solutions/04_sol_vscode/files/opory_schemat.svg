@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Siły działające na ciało z oporem powietrza</title>
+  <desc id="desc">Tor lotu z prędkością styczną do toru. Ciężar działa pionowo w dół, a opór przeciwnie do prędkości.</desc>
+  <rect width="900" height="320" fill="#fff"/>
+  <path d="M70 270H840M70 270V35" fill="none" stroke="#233044" stroke-width="2"/>
+  <path d="M80 260Q320 75 735 225" fill="none" stroke="#2864a5" stroke-width="4"/>
+  <circle cx="440" cy="146" r="11" fill="#d47722"/>
+  <path d="M440 146L535 111" stroke="#168578" stroke-width="3"/>
+  <path d="M535 111l-14 1 7 13z" fill="#168578"/>
+  <path d="M440 146L358 176" stroke="#d47722" stroke-width="3"/>
+  <path d="M358 176l14-1-7-13z" fill="#d47722"/>
+  <path d="M440 146V226" stroke="#8455a4" stroke-width="3"/>
+  <path d="M440 226l-8-15h16z" fill="#8455a4"/>
+  <g fill="#233044" font-family="DejaVu Sans, sans-serif" font-size="18">
+    <text x="540" y="108">v</text><text x="325" y="187">F<tspan baseline-shift="sub" font-size="13">D</tspan> = −c|v|v</text>
+    <text x="451" y="221">F<tspan baseline-shift="sub" font-size="13">g</tspan> = mg</text>
+    <text x="575" y="84" fill="#2864a5">tor lotu</text><text x="850" y="278">x [m]</text><text x="48" y="30">y [m]</text>
+  </g>
+</svg>

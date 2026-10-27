@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">Zasięg w zależności od kąta wyrzutu</title><desc id="desc">Porównanie zasięgu idealnego z zasięgiem obliczonym z oporem kwadratowym.</desc>
+  <rect width="900" height="480" fill="#fff"/><g stroke="#d8dee8" stroke-width="1">
+    <path d="M90 390H830M90 320H830M90 250H830M90 180H830M90 110H830M90 40H830"/>
+    <path d="M90 40V390M172 40V390M255 40V390M337 40V390M420 40V390M502 40V390M585 40V390M667 40V390M750 40V390M830 40V390"/>
+  </g>
+  <path d="M90 390L172 246L255 118L337 72L420 82L460 81L502 130L585 210L667 308L748 285L830 390" fill="none" stroke="#2864a5" stroke-width="4"/>
+  <path d="M90 390L172 305L255 253L337 224L420 214L423 214L502 221L585 243L667 281L748 331L830 390" fill="none" stroke="#d47722" stroke-width="4"/>
+  <path d="M90 390H830M90 390V40" fill="none" stroke="#233044" stroke-width="2"/>
+  <path d="M460 390V40" stroke="#2864a5" stroke-width="2" stroke-dasharray="5 5"/><path d="M423 390V40" stroke="#d47722" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="148" cy="383" r="6" fill="#233044"/>
+  <g fill="#233044" font-family="DejaVu Sans, sans-serif" font-size="14">
+    <text x="85" y="414">0</text><text x="165" y="414">0,175</text><text x="247" y="414">0,349</text><text x="329" y="414">0,524</text><text x="412" y="414">0,698</text><text x="494" y="414">0,873</text><text x="577" y="414">1,047</text><text x="659" y="414">1,222</text><text x="742" y="414">1,396</text><text x="817" y="414">1,571</text>
+    <text x="70" y="395">0</text><text x="55" y="325">30</text><text x="55" y="255">60</text><text x="55" y="185">90</text><text x="48" y="115">120</text><text x="48" y="45">150</text>
+    <text x="385" y="455" font-size="17">Kąt wyrzutu α [rad]</text><text transform="translate(24 280) rotate(-90)" font-size="17">Zasięg [m]</text>
+    <text x="585" y="28" fill="#2864a5">Bez oporu</text><text x="710" y="28" fill="#d47722">Z oporem</text>
+    <text x="105" y="365" fill="#233044">badany kąt 0,122 rad</text><text x="430" y="88" fill="#d47722">maksimum ≈ 0,707 rad</text>
+  </g>
+  <path d="M560 23h27M690 23h27" stroke="#2864a5" stroke-width="4"/><path d="M690 23h27" stroke="#d47722" stroke-width="4"/>
+</svg>

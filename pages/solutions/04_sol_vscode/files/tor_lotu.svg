@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-labelledby="title desc">
+  <title id="title">Tor rzutu ukośnego bez oporu i z oporem</title>
+  <desc id="desc">Porównanie trajektorii dla prędkości początkowej 36 metrów na sekundę i kąta 7 stopni.</desc>
+  <rect width="900" height="470" fill="#fff"/><g stroke="#d8dee8" stroke-width="1">
+    <path d="M90 390H830M90 320H830M90 250H830M90 180H830M90 110H830M90 40H830"/>
+    <path d="M90 40V390M275 40V390M460 40V390M645 40V390M830 40V390"/>
+  </g>
+  <path d="M90 390L172.7 335.4L255.2 294.7L338.1 267.5L420.5 254.2L503.1 254.6L586 268.6L668.4 296.5L751 338L829.1 390" fill="none" stroke="#2864a5" stroke-width="4"/>
+  <path d="M90 390L171.4 336.2L250.2 297.6L327.3 273.7L402.2 263.9L475 267.8L545.9 285.3L615 315.8L682.2 359.2L720.2 390" fill="none" stroke="#d47722" stroke-width="4"/>
+  <path d="M90 390H830M90 390V40" fill="none" stroke="#233044" stroke-width="2"/>
+  <g fill="#233044" font-family="DejaVu Sans, sans-serif" font-size="14">
+    <text x="83" y="414">0</text><text x="266" y="414">8</text><text x="448" y="414">16</text><text x="633" y="414">24</text><text x="816" y="414">32</text>
+    <text x="55" y="395">0</text><text x="48" y="325">0,5</text><text x="48" y="255">1,0</text><text x="48" y="185">1,5</text><text x="48" y="115">2,0</text>
+    <text x="390" y="452" font-size="17">Położenie poziome x [m]</text><text transform="translate(24 270) rotate(-90)" font-size="17">Wysokość y [m]</text>
+    <text x="510" y="28" fill="#2864a5">Bez oporu</text><text x="650" y="28" fill="#d47722">Z oporem</text>
+  </g>
+  <path d="M490 23h36M630 23h36" stroke="#2864a5" stroke-width="4"/><path d="M630 23h36" stroke="#d47722" stroke-width="4"/>
+</svg>
