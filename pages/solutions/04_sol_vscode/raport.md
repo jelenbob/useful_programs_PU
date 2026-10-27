@@ -36,7 +36,7 @@ Zakładamy, że:
 
 ![Schemat rzutu ukośnego: wektor prędkości początkowej rozłożony na składowe poziomą i pionową oraz przyspieszenie grawitacyjne skierowane w dół](files/rzut_schemat.svg)
 
-*Rysunek 1. Schemat modelu. Składowa $ v_{0x} $ jest stała, natomiast $ v_y $ zmienia się pod wpływem grawitacji.*
+*Rysunek 1.* Schemat modelu. Składowa $v_{0x}$ jest stała, natomiast $v_y$ zmienia się pod wpływem grawitacji.
 
 ### Wielkości i parametry
 
